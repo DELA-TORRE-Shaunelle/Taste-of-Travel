@@ -5,25 +5,24 @@
   <meta name="description" content="Embark on a culinary adventure with Taste of Travel, exploring
 global flavors and recipes.">
   <title>Taste of Travel</title>
- 
  <style>
-    body 
+    
+   body 
     {margin: 30px;
     background-color: #fcf4d9; }
-
-    h1 
+    
+   h1 
       { color: darkred;
       text-align: center;}
-
-    h2 
-   {color: #b14b0e;}
-
     
-    th, td 
+   h2 
+   {color: #b14b0e;}
+   
+   th, td 
      {border: 1px solid #333;
       padding: 8px;
       text-align: left; }
-
+  
     th 
     {background-color: #ffdfba;}
 
@@ -45,7 +44,7 @@ salty, and spicy."</em><br> - Chef Somchai</blockquote>
   <li><strong>Kaffir Lime Leaves:</strong> 3 leaves</li>
   <li><strong>Shrimp:</strong> 500g</li>
 </ul>
-  <h3>Preperation</h3>
+  <h3>Preparation</h3>
 <ol>
     <li><em>Simmer</em> the broth for 10 minutes.</li>
     <li>Add lemongrass, galangal, and kaffir lime leaves.</li>
@@ -58,13 +57,11 @@ salty, and spicy."</em><br> - Chef Somchai</blockquote>
   <li><sup>1/4</sup> cup of fish sauce adds authentic Thai flavor.</li>
   <li><sub>1</sub> tablespoon of chili paste gives the soup its signature heat.</li>
 </ul>
-<center>
-<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt="Tom Yum Goong">
-</center>
+<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt="Tom Yum Goong" style="display: block; margin: 0 auto;">
 <br>
 <br>
 <table border="3" style="margin: 0 auto;">
-<caption><center><strong> Recipe Details </strong> </center></caption>
+<caption><strong> Recipe Details </strong></caption>
 <tr>
 <th> Ingredients </th>
 <th> Quantity </th>
